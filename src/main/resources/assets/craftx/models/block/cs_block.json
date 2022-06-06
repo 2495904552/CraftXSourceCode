@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "craftx:blocks/wool_colored_magenta",
+		"down": "craftx:blocks/wool_colored_magenta",
+		"up": "craftx:blocks/wool_colored_magenta",
+		"north": "craftx:blocks/wool_colored_magenta",
+		"south": "craftx:blocks/wool_colored_magenta",
+		"west": "craftx:blocks/wool_colored_magenta",
+		"east": "craftx:blocks/wool_colored_magenta"
+	}
+}

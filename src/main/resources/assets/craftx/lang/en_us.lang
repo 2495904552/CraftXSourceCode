@@ -1,0 +1,4 @@
+item.craftx_cs.name=测试物品
+tile.cs_block.name=测试方块
+itemGroup.item_tab=CraftX物品
+itemGroup.block_tab=CraftX方块
